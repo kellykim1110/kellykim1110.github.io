@@ -3,9 +3,9 @@ title: Marshmallow is learning
 email: kelly.kim19951110@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-#baseurl:  https://kellykim1110.github.io/ # the subpath of your site, e.g. /blog/
-#url:  # the base hostname & protocol for your site
-#github_username:  kellykim1110
+baseurl:  # the subpath of your site, e.g. /blog/
+url: https://kellykim1110.github.io/ # the base hostname & protocol for your site
+github_username:  kellykim1110
 
 # Build settings
 markdown: kramdown
